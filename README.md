@@ -4,13 +4,7 @@ Dockerization of the [TokenHMR repository](https://github.com/saidwivedi/TokenHM
 
  * Repository: [https://github.com/saidwivedi/TokenHMR](https://github.com/saidwivedi/TokenHMR)
 
-With this docker image you can from this video
-
-<div style="text-align:center;">
-  <video src="assets/gymnasts.mp4" style="width:640px;height:360px;" controls loop>
-</div>
-
-This video
+With this docker you can do this video
 
 <p align="center">
   <img src="https://github.com/saidwivedi/TokenHMR/raw/main/assets/gymnasts_results.gif" alt="Demo GIF">
