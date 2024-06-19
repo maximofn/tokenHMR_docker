@@ -7,13 +7,13 @@ Dockerization of the [TokenHMR repository](https://github.com/saidwivedi/TokenHM
 With this docker image you can from this video
 
 <div style="text-align:center;">
-  <video src="assets/gymnasts.mp4" style="width:640px;height:360px;" controls loop>
+  <video src="https://raw.githubusercontent.com/maximofn/tokenHMR_docker/main/assets/gymnasts.mp4" style="width:640px;height:360px;" controls loop>
 </div>
 
 This video
 
 <div style="text-align:center;">
-  <video src="assets/PHALP_gymnasts.mp4" style="width:640px;height:360px;" controls loop>
+  <video src="https://raw.githubusercontent.com/maximofn/tokenHMR_docker/main/assets/PHALP_gymnasts.mp4" style="width:640px;height:360px;" controls loop>
 </div>
 
 ## Requisites
