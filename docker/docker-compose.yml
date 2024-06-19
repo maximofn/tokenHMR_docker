@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  token_hmr:
+    container_name: token_hmr
+    image: maximofn/token_hmr:1.0.1
+    build: .
+    runtime: nvidia
+    network_mode: "host"
+    volumes:
+      - ./data:/TokenHMR/data
+    tty: true
+    stdin_open: true

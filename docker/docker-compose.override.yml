@@ -1,0 +1,5 @@
+version: "3.8"
+
+services:
+  token_hmr:
+    entrypoint: ["bash", "-c", "python app.py"]
